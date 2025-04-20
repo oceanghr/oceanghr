@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ghira
+- 👋 Hi, I’m Ghira
 - 🌱 I’m currently learning c++
 - 😄 Pronouns: she/her
 
